@@ -19,7 +19,7 @@ Modern LLMs struggle with:
    - LoRA adapters (r=8, α=32) on q_proj/v_proj layers
    - SQuAD v2 fine-tuning (300 samples)
 
-![Architecture](assets/architecture-diagram.png)
+![Architecture](assets/architecture.png)
 
 
 ## Key Components
