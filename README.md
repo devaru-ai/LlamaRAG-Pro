@@ -1,4 +1,5 @@
-# LlamaRAG-Pro
+# LlamaRAG-Pro: Retrieval-Augmented Llama for Domain-Specific QA
+
 
 ## Problem Statement
 Modern LLMs struggle with:
